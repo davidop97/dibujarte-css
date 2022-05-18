@@ -7,10 +7,10 @@ assignees: musartedev
 
 ---
 
-## 🎨  Nuevo arte: - <Nombre del arte>
-🔸  **Codepen:**
+## 🎨  Nuevo arte: - <CSS_drawing_Emotions>
+🔸  **Codepen:https://codepen.io/davidop97
 
 ### 👩🏽‍🎨 Autor(a)
-🔸  **Nombre:** 
-🔸  **Twitter:**
-🔸  **Github:**
+🔸  **Nombre:David Oliva
+🔸  **Twitter:https://twitter.com/dax97
+🔸  **Github:https://github.com/davidop97
